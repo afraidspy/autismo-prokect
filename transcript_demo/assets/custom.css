@@ -1,0 +1,4 @@
+/* assets/custom.css */
+body { background-color: #fafbfc; }
+.card { border-radius: 16px !important; }
+.badge { border-radius: 10px !important; }
